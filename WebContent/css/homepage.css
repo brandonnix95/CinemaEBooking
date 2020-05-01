@@ -1,0 +1,8 @@
+.jumbotron {
+    margin-bottom: 12px;
+}
+
+.py-5 {
+    padding-top: 12px !important;
+    padding-bottom: 0 !important;
+}

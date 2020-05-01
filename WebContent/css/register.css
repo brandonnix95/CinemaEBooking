@@ -1,0 +1,11 @@
+.container {
+    max-width: 750px;
+    margin-bottom: 25px;
+}
+
+.py-5 {
+    padding-top: 12px !important;
+    padding-bottom: 24px !important;
+}
+  
+.lh-condensed { line-height: 1.25; }
